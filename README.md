@@ -1,7 +1,13 @@
 # Artistree
 
-## About
+## Introduction
 Music is an international language that everyone can experience and enjoy. Artistree is all about music's astonishingly intertwined world. Whether it be a feature on a song, a shout out, or even a diss track resulting from a feud, Artistree has got you covered. Every time an artist mentions another artist in one of their songs, Artistry will analyse the lyrics from that Artist and when it finds another artist, it will graph that relation. This way, it is incredibly easy to visualize and picture connexions between Artists, through their lyrics. In other words, it will show a tree graph of different artists, hence "artist"+"tree"="artistree". Going through all of an artist's songs and lyrics allows us to piece this complicated puzzle together and present it in a fashionable manner. We can also see how much contact and influence an artist has over another and has in general. These artists show us that music is not a solitary adventure.
+
+Go to 
+```
+mathusan.net/Artistree/index.html
+``` 
+to try it out.
 
 ## How Was It Made?
 The background Image for the website and the logo were all made by us using Adobe Photoshop.
